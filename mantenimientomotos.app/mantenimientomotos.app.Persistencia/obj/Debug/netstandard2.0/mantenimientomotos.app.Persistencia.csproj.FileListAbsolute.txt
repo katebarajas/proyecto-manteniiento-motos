@@ -1,0 +1,9 @@
+D:\curso mintic 2022\CICLO 3\PROYECTO mantenimiento motores\proy mantenimiento motos\mantenimientomotos.app\mantenimientomotos.app.Persistencia\bin\Debug\netstandard2.0\mantenimientomotos.app.Persistencia.deps.json
+D:\curso mintic 2022\CICLO 3\PROYECTO mantenimiento motores\proy mantenimiento motos\mantenimientomotos.app\mantenimientomotos.app.Persistencia\bin\Debug\netstandard2.0\mantenimientomotos.app.Persistencia.dll
+D:\curso mintic 2022\CICLO 3\PROYECTO mantenimiento motores\proy mantenimiento motos\mantenimientomotos.app\mantenimientomotos.app.Persistencia\bin\Debug\netstandard2.0\mantenimientomotos.app.Persistencia.pdb
+D:\curso mintic 2022\CICLO 3\PROYECTO mantenimiento motores\proy mantenimiento motos\mantenimientomotos.app\mantenimientomotos.app.Persistencia\obj\Debug\netstandard2.0\mantenimientomotos.app.Persistencia.csprojAssemblyReference.cache
+D:\curso mintic 2022\CICLO 3\PROYECTO mantenimiento motores\proy mantenimiento motos\mantenimientomotos.app\mantenimientomotos.app.Persistencia\obj\Debug\netstandard2.0\mantenimientomotos.app.Persistencia.AssemblyInfoInputs.cache
+D:\curso mintic 2022\CICLO 3\PROYECTO mantenimiento motores\proy mantenimiento motos\mantenimientomotos.app\mantenimientomotos.app.Persistencia\obj\Debug\netstandard2.0\mantenimientomotos.app.Persistencia.AssemblyInfo.cs
+D:\curso mintic 2022\CICLO 3\PROYECTO mantenimiento motores\proy mantenimiento motos\mantenimientomotos.app\mantenimientomotos.app.Persistencia\obj\Debug\netstandard2.0\mantenimientomotos.app.Persistencia.csproj.CoreCompileInputs.cache
+D:\curso mintic 2022\CICLO 3\PROYECTO mantenimiento motores\proy mantenimiento motos\mantenimientomotos.app\mantenimientomotos.app.Persistencia\obj\Debug\netstandard2.0\mantenimientomotos.app.Persistencia.dll
+D:\curso mintic 2022\CICLO 3\PROYECTO mantenimiento motores\proy mantenimiento motos\mantenimientomotos.app\mantenimientomotos.app.Persistencia\obj\Debug\netstandard2.0\mantenimientomotos.app.Persistencia.pdb
